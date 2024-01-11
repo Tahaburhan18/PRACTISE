@@ -1,0 +1,10 @@
+#abc{
+    writing-mode: vertical-rl; text-align: center;
+}
+#bnm{
+    width: 300px;
+    height: 2px;
+    bottom: -5px;
+    
+  background-color:gray;
+} 
